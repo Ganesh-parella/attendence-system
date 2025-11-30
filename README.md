@@ -113,17 +113,15 @@ WorkPulse/
     │   ├── services/      # Axios Config
     │   └── store/         # Zustand Store
 ```
-
 ## 👨‍💻 Author
 
-**Ganesh Parella**
+**Name:** Ganesh
+**College Name:** Andhra University College of Engineering,Vishakapatnam
+**Contact Number:** 9515997668
+**GitHub:** [Ganesh-parella](https://github.com/Ganesh-parella)
 
-  - **GitHub:** [Ganesh-parella](https://www.google.com/search?q=https://github.com/Ganesh-parella)
-  - **Project Type:** Internship Submission (Full Stack Development)
+---
 
------
-
-*This project was built to demonstrate proficiency in Full Stack Architecture, API Design, and Modern UI Development.*
-
+*This project was submitted for the Full Stack Internship evaluation.*
 ```
 ```
